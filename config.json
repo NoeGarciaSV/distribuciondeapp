@@ -1,5 +1,4 @@
 {
-  "status": "restricted",
-  "latest_version": "25.40",
-  "msg": "<pre style='color: #00ff00; font-family: monospace; line-height: 1.2;'>+-----------------------------------------+\n|          SISTEMA BLOQUEADO              |\n|      LICENCIA EXPIRADA / REQUIERE PAGO  |\n+-----------------------------------------+\n\nContacte al administrador del sistema.</pre>"
+  "status": "free",
+  "msg": "nuevas actualizaciones contacte con el administrador."
 }
