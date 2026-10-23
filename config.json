@@ -1,4 +1,5 @@
 {
-  "status": "free",
-  "msg": "Esta aplicación requiere una licencia activa para continuar. Contacta al administrador."
+  "status": "restricted",
+  "latest_version": "25.40",
+  "msg": "<pre style='color: #00ff00; font-family: monospace; line-height: 1.2;'>+-----------------------------------------+\n|          SISTEMA BLOQUEADO              |\n|      LICENCIA EXPIRADA / REQUIERE PAGO  |\n+-----------------------------------------+\n\nContacte al administrador del sistema.</pre>"
 }
